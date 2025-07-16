@@ -18,7 +18,7 @@
   <li><code>/report</code> — Folder with dashboard summarizing key points and insights</li>
 </ul>
 
-<h2>📌 Topics Explored</h2>
+<h2>Topics Explored</h2>
 
 <ul>
   <li>Data Cleaning and Preparation</li>
@@ -34,7 +34,7 @@
   <li>VS code</li>
 </ul>
 
-<h2>📝 Notes</h2>
+<h2>Notes</h2>
 <p>
   This is a learning project based on Amazon dataset. The goal is to practice data manipulation, visualization, and insight generation.
 </p>
