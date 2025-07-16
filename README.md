@@ -10,13 +10,6 @@
 
 <hr>
 
-## Setup
-
-To run this notebook locally, install the required packages:
-
-```bash
-pip install -r requirements.txt
-
 <h2>Files</h2>
 
 <ul>
@@ -46,3 +39,10 @@ pip install -r requirements.txt
   This is a learning project based on Amazon dataset. The goal is to practice data manipulation, visualization, and insight generation.
 </p>
 
+## Setup
+
+To run this notebook locally, install the required packages:
+
+```bash
+pip install -r requirements.txt
+python amazon_analysis.py
