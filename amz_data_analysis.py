@@ -3,12 +3,15 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.graph_objects as go
+import os
 
 #set charts/tables background to darkgrid
 sns.set_theme(style="darkgrid", font='Calibri', font_scale=1.2)
 
 # load dataset
-archive = pd.read_csv(r"C:\Users\ayuki\amazon.csv")
+path = os.getcwd()
+file_path = os.path.join(path, 'amazon.csv')
+archive = pd.read_csv(file_path)
 
 #print main informations
 
