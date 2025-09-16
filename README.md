@@ -6,7 +6,12 @@
 
 <hr>
 <p align="center">
- <img width="100px"https://i.pinimg.com/1200x/bc/51/db/bc51dbaa99303ad1eb3104c24b52a6f0.jpg"/>
+  <img
+    src="https://i.pinimg.com/1200x/bc/51/db/bc51dbaa99303ad1eb3104c24b52a6f0.jpg"
+    width="100"
+    alt="Imagem centralizada">
+</p>
+ 
 </p>
 ## 🚀 Projetos
 
