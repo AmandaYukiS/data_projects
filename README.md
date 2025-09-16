@@ -1,4 +1,6 @@
+<p align="center">
 # Portfólio de Projetos de Análise de Dados
+</p>
 
 <p align="center">
   Este repositório contém uma coleção de projetos de Análise de Dados e Machine Learning, desenvolvidos para demonstrar competências práticas em diversas ferramentas e técnicas.
