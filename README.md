@@ -1,48 +1,65 @@
-<h1 align="center">Amazon Data Analysis</h1>
+<h1 align="center">Análise Preditiva de Preços de Carros Usados (VW Gol)</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/4a/6b/a0/4a6ba044b456bb0e74b1b71751b267ee.jpg" alt="Cover Image" style="width:100%; height:auto;"/>
+  <img src="https://i.ytimg.com/vi/u_ot5y4-i_M/maxresdefault.jpg" alt="Capa do Projeto VW Gol" style="width:100%; height:auto;"/>
 </p>
 
 <p align="center">
-  Exploratory Data Analysis (EDA) of Amazon product dataset using Python, Pandas, and Seaborn.
+  Um projeto completo de Ciência de Dados que vai desde a coleta de dados na web (Web Scraping) até a criação de um modelo de Regressão Linear para prever o preço de veículos.
 </p>
 
 <hr>
 
-<h2>Files</h2>
+## 📂 Arquivos no Repositório
 
-<ul>
-  <li><code>amz_data_analysis.py</code> — Python code used</li>
-  <li><code>amazon.csv</code> — Dataset used for the analysis</li>
-  <li><code>/report</code> — Folder with dashboard summarizing key points and insights</li>
-</ul>
+* `car_price_prediction.ipynb` — O Jupyter Notebook com todo o código e análise, do início ao fim.
+* `requirements.txt` — Uma lista de todas as bibliotecas Python necessárias para rodar o projeto.
 
-<h2>Topics Explored</h2>
+## 🚀 Conceitos e Tópicos Explorados
 
-<ul>
-  <li>Data Cleaning and Preparation</li>
-  <li>Exploratory Data Analysis (EDA)</li>
-  <li>Visualizations with Seaborn and Matplotlib</li>
-  <li>Insights from ratings, pricing, and discounts</li>
-</ul>
+* **Engenharia de Dados**:
+    * Web Scraping com `Requests` e `BeautifulSoup`.
+    * Integração e armazenamento de dados em banco de dados `MySQL`.
+* **Análise Exploratória de Dados (AED)**:
+    * Limpeza e pré-processamento de dados com `Pandas`.
+    * Análise de correlação e covariância.
+    * Cálculo de métricas de distância (Euclidiana) e análise de similaridade.
+    * Visualizações com `Seaborn` e `Matplotlib` (Heatmaps, Scatter Plots, Boxplots).
+* **Machine Learning**:
+    * Normalização de dados com `Scikit-Learn`.
+    * Treinamento de um modelo de **Regressão Linear**.
+    * Avaliação do modelo usando o **R² (Coeficiente de Determinação)**.
+    * Interpretação dos resultados (`y = ax + b`, previsões `ŷ`).
 
-<h2>🛠Tools</h2>
+## 🛠️ Ferramentas Utilizadas
 
-<ul>
-  <li>Python (Pandas, Seaborn, Matplotlib, Plotly)</li>
-  <li>VS code</li>
-</ul>
+* **Python**
+* **Pandas**
+* **Scikit-Learn**
+* **Seaborn & Matplotlib**
+* **MySQL**
+* **Jupyter Notebook**
 
-<h2>Notes</h2>
-<p>
-  This is a learning project based on Amazon dataset. The goal is to practice data manipulation, visualization, and insight generation.
-</p>
+## 📝 Anotações
 
-## Setup
+Este é um projeto de portfólio de ponta a ponta, projetado para demonstrar competências práticas em todo o ciclo de vida de um projeto de dados. O objetivo principal foi aplicar e solidificar conceitos fundamentais de análise e modelagem preditiva.
 
-To run this notebook locally, install the required packages:
+## ⚙️ Setup e Instalação
 
-```bash
-pip install -r requirements.txt
-python amazon_analysis.py
+Para executar este projeto localmente, siga os passos abaixo:
+
+1.  **Clone o repositório:**
+    ```bash
+    git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+    cd nome-do-repositorio
+    ```
+
+2.  **Instale as dependências:**
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3.  **Abra o Jupyter Notebook:**
+    ```bash
+    jupyter notebook car_price_prediction.ipynb
+    ```
