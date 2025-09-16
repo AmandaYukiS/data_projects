@@ -8,7 +8,7 @@
 <p align="center">
   <img
     src="https://i.pinimg.com/1200x/bc/51/db/bc51dbaa99303ad1eb3104c24b52a6f0.jpg"
-    width="100"
+    width="100000"
     alt="Imagem centralizada">
 </p>
  
