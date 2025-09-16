@@ -14,7 +14,8 @@
 </p>
  
 </p>
-## 🚀 Projetos
+
+<h3 align="center">🚀 Projetos</h3>
 
 Abaixo está a lista de projetos contidos neste repositório. O projeto em destaque é o de Previsão de Preços, por abranger um ciclo completo de engenharia e ciência de dados.
 
